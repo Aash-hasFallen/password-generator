@@ -20,7 +20,7 @@ A responsive Password Generator built using HTML, CSS, and JavaScript. Users can
 ## How to Run
 
 1. Clone or download this repository.
-2. Open `passwordGenerator.html` in your browser or use Live Server.
+2. Open `passwordGenerator.html` in your browser or use Live Server or open `https://password-generator-gcf.vercel.app/`.
 3. Select your password options and click **Generate Password**.
 
 ## Preview
